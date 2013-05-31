@@ -1,3 +1,2 @@
 wo di yi chi yong .
-tuto：我写了第二行。
-commit インデックスの状態を記録する
+commit インデックスの状態を記録するpull リモートリポジトリの内容を取得する
